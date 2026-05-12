@@ -1,0 +1,10 @@
+Body{
+    font-family: "Roboto", sans-serif;
+}
+
+.container-fluid{
+    font-family: "Roboto", sans-serif;
+}
+.navbar navbar-expand-lg bg-body-tertiary{
+    align-items: center;
+}
